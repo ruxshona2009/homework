@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(42, 93, 90);
+}
+.title{
+    background: rgb(49, 19, 19);
+    text-align: center;
+    color: white;
+    margin: 22px auto;
+    width: 590px;
+    padding: 24px 17px;
+    justify-content: center;
+ }
+.body2{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    margin: 55px auto;
+    background-color: black;
+    border: 10px solid rgb(255, 6, 6);
+}
+
+.model{
+    padding: 40px 54px;
+    margin: 45px 52px;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+}
+.model{
+    padding: 40px 54px;
+    margin: 45px 52px;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+}
